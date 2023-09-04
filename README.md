@@ -37,6 +37,41 @@ I might like to have a social aspect, like a profile page, bio, and ability to k
 - Settings
 - Dark/light mode
 
+---
+
+#### Features Brainstorming
+
+- Exercises (ability to save records of the exercises. Or just make it front-end for now?)
+  - 5-Minute Exercise
+  - Remote Control Exercise
+  - Words of Compassion
+  - Fathers and Mothers
+  - Child Self
+- Blog
+- Resources
+- AI Companion
+
+  - Use ML to generate compassion phrases as the user trains the model, specifically tailored to the user.
+
+- Try to build an app that would, as closely as possible, replicate life consultants and everything they do, including training other life consultants.
+
+- Have daily words, like the Bible app verse of the day. Have a word of encouragement of the day or something.
+
+- Maybe have the entire thing be AI-centric. Or the option to turn on or off certain features of it. For instance, have a ChatGPT-like interaction as
+  e user steps through the remote control exercise.
+
+##### Notes on the Features Above
+
+- Exercises
+  - Record and show the user their own data/analytics of what types of issues often come up for them. Also use this data to train the AI model.
+  - Add new features to each exercise to enrich the experience. Put your own touch.
+
+---
+
+#### New App Ideas
+
+- Website hub for creators to showcase their work and to connect with potential or existing customers. Like a platform. Perhaps like another Psychology Today or something.
+
 ## Support
 
 To show support, share feedback through my social links below, creating GitHub Issues, or by "buying me a coffee" at the link below. Any support is much appreciated!
